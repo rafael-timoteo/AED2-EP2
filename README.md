@@ -1,6 +1,6 @@
-Mudei muita coisa. Ainda não está pronto. Parei na parte de inserir os dados nos arquivos data.dat e indice.dat via função insert (por algum motivo o fwrite não tá fazendo o papel dele). Ainda tem alguns códigos comentados que podem vir a serem úteis, por isso ainda estão ai. Para quem for rodar no Windows, substituir os 'rm' do Makefile por 'del'. A compilação continua igual.
+# AED2-EP2
 
-Na inserção via CL, o dados são separados por ';' não mais 'white-space'.
+Segundo exercício programa para a disciplinas Algoritmo e Estrutura de Dados 2
 
 Referências:
 
